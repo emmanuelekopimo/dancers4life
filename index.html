@@ -4,8 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./style.css">
     <link rel="icon" href="./favicon.ico">
+    <script src="./script.js" defer></script>
     <title>Dancers 4 Life</title>
 </head>
 
@@ -13,7 +18,7 @@
     <!--Top nav bar-->
     <nav class="top-nav">
         <img src="./res/icon.png" alt="Dancers 4 Life Icon" class="nav-icon">
-        <span class="nav-text">Home</span>
+        <span class="nav-text top-text">Home</span>
         <span class="space"></span>
         <a href="./videos/index.htm?page=1"><span class="nav-text nav-link">Videos</span></a>
         <a href="./store/index.htm"><span class="nav-text nav-link">Store</span></a>
@@ -25,7 +30,7 @@
     <main class="total">
         <h2 class="section-title welcome">Welcome</h2>
         <section class="pre">
-            <img src="./res/rect6.png" alt="Welcome Image" class="board-image">
+            <img src="./res/rect1.jpg" alt="Welcome Image" class="board-image">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex nulla expedita minus
             reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe vitae fuga beatae, est optio
             voluptates perferendis!
@@ -34,7 +39,7 @@
         <section class="card-view">
             <div class="card">
                 <img src="./res/rect.png" class="card-image" alt="Dance Class">
-                <span class="primary-text">Dance name</span>
+                <span class="primary-text">Hip-Hop Dance</span>
                 <p class="card-content">
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex
                     nulla expedita minus reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe
@@ -44,7 +49,7 @@
             </div>
             <div class="card">
                 <img src="./res/rect.png" class="card-image" alt="Dance Class">
-                <span class="primary-text">Dance name</span>
+                <span class="primary-text">Salsa Dance</span>
                 <p class="card-content">
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex
                     nulla expedita minus reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe
@@ -54,7 +59,7 @@
             </div>
             <div class="card">
                 <img src="./res/rect.png" class="card-image" alt="Dance Class">
-                <span class="primary-text">Dance name</span>
+                <span class="primary-text">Ballroom Dance</span>
                 <p class="card-content">
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex
                     nulla expedita minus reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe
@@ -64,7 +69,7 @@
             </div>
             <div class="card">
                 <img src="./res/rect.png" class="card-image" alt="Dance Class">
-                <span class="primary-text">Dance name</span>
+                <span class="primary-text">Line Dance</span>
                 <p class="card-content">
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex
                     nulla expedita minus reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe
@@ -74,7 +79,57 @@
             </div>
         </section>
         <h2 class="section-title ">Meet your trainers</h2>
+        <section class="card-view">
+            <div class="card profile-card">
+                <img src="./res/man1.jpg" class="card-icon" alt="Trainer Image">
+                <p class="primary-text center-text">Peter Godman</p>
+                <p class="card-content">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex
+                    nulla expedita minus reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe
+                    vitae fuga beatae
+                </p>
+            </div>
+            <div class="card profile-card">
+                <img src="./res/fem2.jpg" class="card-icon" alt="Trainer Image">
+                <p class="primary-text center-text">Tyme Gomez</p>
+                <p class="card-content">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex
+                    nulla expedita minus reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe
+                    vitae fuga beatae
+                </p>
+            </div>
+            <div class="card profile-card">
+                <img src="./res/fem1.jpg" class="card-icon" alt="Trainer Image">
+                <p class="primary-text center-text">Queen Edward</p>
+                <p class="card-content">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex
+                    nulla expedita minus reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe
+                    vitae fuga beatae
+                </p>
+            </div>
+            <div class="card profile-card">
+                <img src="./res/man2.png" class="card-icon" alt="Trainer Image">
+                <p class="primary-text center-text">Immanuel Hugson</p>
+                <p class="card-content">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex
+                    nulla expedita minus reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe
+                    vitae fuga beatae
+                </p>
+            </div>
+        </section>
+        <h2 class="section-title ">Testimonial</h2>
+        <section class="pre">
+            <img src="./res/image1.png" alt="Welcome Image" class="board-image">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, vero. Ab ex nulla expedita minus
+            reprehenderit exercitationem voluptate, animi ducimus nesciunt, officia saepe vitae fuga beatae, est optio
+            voluptates perferendis!
+        </section>
     </main>
+    <footer class="footer-area">
+        <span>We are Dancers 4 Life</span>
+        <span class="space"></span>
+        <span>© Dancers4Life</span>
+    </footer>
 </body>
 
 </html>
