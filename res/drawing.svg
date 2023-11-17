@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.48907828"
-     inkscape:cx="416.08881"
-     inkscape:cy="884.31651"
+     inkscape:cx="348.61495"
+     inkscape:cy="1009.0409"
      inkscape:window-width="1366"
      inkscape:window-height="745"
      inkscape:window-x="-8"
@@ -118,27 +118,43 @@
        inkscape:export-filename="rect.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3544px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8300;fill-opacity:1;stroke:none;stroke-width:0.680051;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       x="13.881224"
-       y="180.7505"
-       id="text5"><tspan
-         sodipodi:role="line"
-         id="tspan5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3544px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.680051"
-         x="13.881224"
-         y="180.7505">Become</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3544px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8300;fill-opacity:1;stroke:none;stroke-width:0.680051;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       x="13.881224"
-       y="200.2597"
-       id="text6"><tspan
-         sodipodi:role="line"
-         id="tspan6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3544px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.680051"
-         x="13.881224"
-         y="200.2597">a Dancer</tspan></text>
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.978958;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect6"
+       width="202.32787"
+       height="86.557381"
+       x="11.901639"
+       y="258.59015"
+       rx="10.108401"
+       ry="0"
+       inkscape:export-filename="rect6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ec0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.10025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect7"
+       width="77.901634"
+       height="86.557373"
+       x="11.901639"
+       y="258.59015"
+       rx="0"
+       ry="9.7377081" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#008bdc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.10025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect8"
+       width="77.901634"
+       height="86.557373"
+       x="136.32787"
+       y="258.59015"
+       rx="0"
+       ry="9.7377081" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#0c6000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.08666;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect9"
+       width="74.655724"
+       height="86.557365"
+       x="75.737717"
+       y="258.59015"
+       ry="0" />
   </g>
 </svg>
