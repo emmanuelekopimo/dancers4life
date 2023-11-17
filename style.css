@@ -1,0 +1,141 @@
+/*
+:root is not really used
+*/
+:root {
+  --light-theme-background: rgb(255, 255, 255);
+  --light-theme-shadow: 0px 0px 8px rgba(0, 0, 0, 0.18);
+  --light-theme-text: rgb(22, 22, 22);
+}
+
+* {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.top-nav {
+  background-color: var(--tranparent);
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding-inline: 20px;
+  box-shadow: none;
+  transition: background-color 0.2s, box-shadow 0.2s, height 0.2s;
+  z-index: 1000;
+  color: var(--light-theme-background);
+  background-position: center center;
+  background-size: cover;
+}
+
+.nav-text {
+  font-size: 1.2rem;
+}
+
+.primary-text {
+  font-size: 1.2rem;
+  display: block;
+  margin-inline: 8px;
+  margin-block: 6px;
+  font-weight: 600;
+}
+
+.card-content {
+  margin-inline: 8px;
+  margin-bottom: 15px;
+  margin-top: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-link {
+  cursor: pointer;
+  color: rgb(158, 158, 255);
+}
+
+.top-nav.opaque {
+  background-color: rgba(255, 255, 255, 255);
+  background-image: url(./../images/bar.png);
+  box-shadow: var(--light-theme-shadow);
+  height: 60px;
+}
+
+.header {
+  background-image: url(./res/rect.png);
+  background-size: cover;
+  background-position: center center;
+  height: 300px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.space {
+  flex: 1;
+}
+
+.nav-icon {
+  height: 40px;
+}
+
+.total {
+  margin: auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+.pre {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+.board-image {
+  width: 100%;
+}
+
+.section-title {
+  font-weight: 600;
+}
+
+.card-view {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.card {
+  width: 330px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+
+.card-image {
+  width: 100%;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+
+.card {
+  width: 330px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+@media (max-width: 650px) {
+  .pre {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+}

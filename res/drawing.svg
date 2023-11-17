@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.48907828"
+     inkscape:cx="416.08881"
+     inkscape:cy="884.31651"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#ff3f00;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d9d9d9;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#d9d9d9;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="39.026455"
+       y1="146.97786"
+       x2="114.93835"
+       y2="146.97786"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="73.063835"
+       y1="142.68486"
+       x2="122.41061"
+       y2="265.86057"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.917;stroke-linecap:butt;stroke-dasharray:14.75099945, 4.91699982;stroke-dashoffset:0;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       id="path1"
+       cx="-50.852463"
+       cy="134.70493"
+       r="47.065575"
+       inkscape:export-filename="icon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:57.9299px;font-family:Chiller;-inkscape-font-specification:'Chiller, Normal';fill:#ff8300;fill-opacity:1;stroke:#000000;stroke-width:0.954;stroke-linecap:round;stroke-dashoffset:38.3624;stroke-dasharray:none;stroke-opacity:1"
+       x="-86.468079"
+       y="153.30656"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.9299px;font-family:Chiller;-inkscape-font-specification:'Chiller, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8300;fill-opacity:1;stroke-width:0.954;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+         x="-86.468079"
+         y="153.30656">D4L</tspan></text>
+    <path
+       style="fill:#ff8300;fill-opacity:1;stroke:#000000;stroke-width:2.35399986;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers;stroke-opacity:1"
+       d="m -75.359034,163.34166 c 3.180657,1.34809 17.435541,-2.45618 17.979059,-1.91266 1.145648,1.14565 -2.487901,7.8405 -1.530133,8.79826 0.949402,0.9494 5.554165,0.51193 6.503064,0.38253 5.630928,-0.76785 11.144033,-2.27881 16.448926,-4.20786 0.494088,-0.17967 1.011544,-0.2961 1.530133,-0.38253 0.251553,-0.0419 0.552876,0.14146 0.765066,0 2.2952,-1.53014 0.765067,-1.1476 2.2952,-2.2952 0.548651,-0.41149 1.301395,-0.45943 1.912665,-0.76507"
+       id="path2" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient5);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.01846;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect2"
+       width="206.18536"
+       height="112.46475"
+       x="4.2078633"
+       y="124.70582"
+       rx="3.6165934"
+       ry="0"
+       inkscape:export-filename="rect.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3544px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8300;fill-opacity:1;stroke:none;stroke-width:0.680051;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="13.881224"
+       y="180.7505"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3544px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.680051"
+         x="13.881224"
+         y="180.7505">Become</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3544px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8300;fill-opacity:1;stroke:none;stroke-width:0.680051;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="13.881224"
+       y="200.2597"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3544px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.680051"
+         x="13.881224"
+         y="200.2597">a Dancer</tspan></text>
+  </g>
+</svg>
