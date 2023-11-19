@@ -157,6 +157,33 @@ a {
   margin-top: 0px;
 }
 
+.account-text {
+  position: relative;
+}
+
+.account-card {
+  position: absolute;
+  top: calc(100%);
+  right: 0px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 10px;
+  gap: 8px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.account-card.show {
+  opacity: 1;
+}
+
+.account-card:focus {
+  opacity: 1;
+}
+
 @media (max-width: 650px) {
   .pre {
     grid-template-columns: 1fr;

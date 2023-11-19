@@ -1,0 +1,107 @@
+* {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.top-colors {
+  height: 8px;
+  display: grid;
+  grid-template-columns: 3fr 2fr 1fr;
+}
+
+.top-colors > div:nth-child(1) {
+  background-color: black;
+}
+
+.top-colors > div:nth-child(2) {
+  background-color: rgb(255, 140, 0);
+}
+
+.top-colors > div:nth-child(3) {
+  background-color: rgb(99, 99, 99);
+}
+
+.main-area {
+  margin: auto;
+  margin-top: 100px;
+  max-width: 450px;
+  border: 0.8px solid gray;
+  padding-top: 18px;
+  padding-inline: 15px;
+  border-radius: 6px;
+}
+
+.top-icon {
+  width: 60px;
+  display: block;
+  margin: auto;
+}
+
+.center {
+  text-align: center;
+  font-weight: 500;
+}
+.username-e {
+  width: 100%;
+  font-size: 16pt;
+  display: block;
+  background-color: rgb(165, 165, 165);
+  border-width: 0px;
+  outline: none;
+}
+
+.password-e {
+  width: 100%;
+  font-size: 16pt;
+  display: block;
+  background-color: rgb(165, 165, 165);
+  border-width: 0px;
+  outline: none;
+}
+
+.username-e:active {
+  border-width: 0px;
+}
+
+.log-in-button {
+  display: block;
+  margin: auto;
+  margin-block: 10px;
+  padding-inline: 30px;
+  padding-block: 10px;
+  background: black;
+  color: rgb(255, 140, 0);
+  font-weight: 500;
+  border-width: 0px;
+  border-radius: 4px;
+  font-size: 12pt;
+}
+
+.log-in-button:hover {
+  background: rgb(20, 20, 20);
+}
+
+.log-in-button:active {
+  background: rgb(32, 32, 32);
+}
+
+.input-container {
+  background-color: rgb(165, 165, 165);
+  padding: 8px;
+  display: flex;
+  border-radius: 4px;
+}
+
+.label {
+  margin-block: 5px;
+}
+@media (max-width: 480px) {
+  .main-area {
+    margin-inline: 10px;
+  }
+}
