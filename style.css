@@ -53,6 +53,7 @@ body {
   margin-inline: 10px;
   margin-bottom: 15px;
   margin-top: 0px;
+  flex-grow: 100;
 }
 
 a {
@@ -61,12 +62,11 @@ a {
 
 .nav-link {
   cursor: pointer;
-  color: rgb(255, 150, 81);
+  color: rgb(255, 102, 0);
 }
 
 .top-nav.opaque {
-  background-color: rgba(255, 255, 255, 255);
-  background-image: url(./../images/bar.png);
+  background-color: rgb(214, 214, 214);
   box-shadow: var(--light-theme-shadow);
   height: 60px;
 }
@@ -84,8 +84,8 @@ a {
 }
 
 .footer-area {
-  color: white;
-  background-color: black;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
   padding: 20px;
   display: flex;
 }
@@ -132,10 +132,13 @@ a {
   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   border-radius: 15px;
   background-color: rgb(255, 161, 99);
+  justify-content: stretch;
 }
 
 .card-image {
   width: 100%;
+  height: 190px;
+  object-fit: cover;
   border-top-right-radius: 15px;
   border-top-left-radius: 15px;
 }
@@ -182,6 +185,52 @@ a {
 
 .account-card:focus {
   opacity: 1;
+}
+
+.free-area {
+  position: relative;
+}
+.float-tag {
+  position: absolute;
+  right: 12px;
+  bottom: 10px;
+  background-color: black;
+  color: rgb(255, 94, 0);
+  padding-inline: 3px;
+  padding-block: 1px;
+  border-radius: 3px;
+  opacity: 0.7;
+}
+
+.buy-button {
+  margin-inline: 10px;
+  margin-bottom: 12px;
+  font-size: 12pt;
+  background-color: black;
+  color: rgb(255, 94, 0);
+  padding-block: 7px;
+  border-width: 0px;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.buy-button:hover {
+  background-color: rgb(15, 15, 15);
+}
+
+.buy-button:active {
+  background-color: rgb(32, 32, 32);
+}
+.tag {
+  background-color: rgb(223, 0, 0);
+  color: white;
+  padding-inline: 5px;
+  padding-block: 2px;
+  border-radius: 4px;
+}
+
+.heavy {
+  font-weight: 700;
 }
 
 @media (max-width: 650px) {

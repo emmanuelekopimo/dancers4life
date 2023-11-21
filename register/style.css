@@ -19,7 +19,7 @@ body {
 }
 
 .top-colors > div:nth-child(2) {
-  background-color: rgb(255, 140, 0);
+  background-color: rgb(223, 0, 0);
 }
 
 .top-colors > div:nth-child(3) {
@@ -28,7 +28,7 @@ body {
 
 .main-area {
   margin: auto;
-  margin-top: 100px;
+  margin-top: 70px;
   max-width: 450px;
   border: 0.8px solid gray;
   padding-top: 18px;
@@ -50,7 +50,7 @@ body {
   width: 100%;
   font-size: 16pt;
   display: block;
-  background-color: rgb(165, 165, 165);
+  background-color: rgb(206, 206, 206);
   border-width: 0px;
   outline: none;
 }
@@ -59,7 +59,7 @@ body {
   width: 100%;
   font-size: 16pt;
   display: block;
-  background-color: rgb(165, 165, 165);
+  background-color: rgb(206, 206, 206);
   border-width: 0px;
   outline: none;
 }
@@ -91,7 +91,7 @@ body {
 }
 
 .input-container {
-  background-color: rgb(165, 165, 165);
+  background-color: rgb(206, 206, 206);
   padding: 8px;
   display: flex;
   border-radius: 4px;
