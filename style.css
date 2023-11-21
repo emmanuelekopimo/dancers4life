@@ -212,6 +212,8 @@ a {
   border-width: 0px;
   border-radius: 6px;
   font-weight: 500;
+  display: block;
+  text-align: center;
 }
 
 .buy-button:hover {
@@ -231,6 +233,10 @@ a {
 
 .heavy {
   font-weight: 700;
+}
+
+.buy-link {
+  display: block;
 }
 
 @media (max-width: 650px) {
